@@ -16,3 +16,4 @@ Dan module harus lengkap biar bisa run otomatis
 > npm start
 > Now scan the QR
 ```
+## AOWKOAWM
